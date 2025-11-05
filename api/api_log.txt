@@ -1,0 +1,4 @@
+2025-05-28 11:13:15
+Request: {"fname":"qiwugwjhrjds","lname":"ejlkwejkhg","email":"testdev9328@gmail.com","phone":" 48354398024","ctry":"PL","city_region":"Warsaw\/Mazovia","ip":"2a02:a31a:20d7:5a80:28e8:188:7491:4f2f","password":"A2dq6Wpsbhs4","subid":"03jkku3w492","gclid":"null","utm_content":"null","adgroup":"null","utm_campaign":"null","lpurl":"null","domain":"statsaff.click","devicemodel":"null"}
+Response: {"lead_uuid":"b079282a-e742-479e-850b-0ae2204bdda5","auto_login_url":"https:\/\/aroundbitd.com\/sdk\/v1\/flow\/go\/155\/b079282a-e742-479e-850b-0ae2204bdda5","advertiser_uuid":"6f20fb56-25af-473a-ab12-0dcc3c85f8a8"}
+
